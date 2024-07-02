@@ -1,0 +1,31 @@
+/* notifications.css */
+
+.notifications {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.notifications h2 {
+  margin-bottom: 20px;
+}
+
+.notifications ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.notifications li {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.notifications li p {
+  margin-bottom: 8px;
+}
+
+.notifications li strong {
+  font-size: 1.2em;
+}
