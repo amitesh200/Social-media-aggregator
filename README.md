@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Social Media Aggregator</title>
+ 
 </head>
 <body>
 
@@ -11,7 +11,6 @@
   
   <p>The Social Media Aggregator is a web application that integrates with multiple social media platforms (e.g., Twitter, Facebook, Instagram) using their APIs. It allows users to manage their social media accounts, view feeds, post updates, and customize account settings from a centralized platform.</p>
 
-  <img src="https://example.com/your-app-screenshot.png" alt="Social Media Aggregator Screenshot" style="max-width: 100%; height: auto;">
 
   <h2>Features</h2>
 
