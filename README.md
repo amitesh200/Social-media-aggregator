@@ -1,9 +1,16 @@
-# Social-media-aggregator
-A social media aggregator that integrates with multiple social media platforms.
+Social Media Aggregator
+The Social Media Aggregator is a web application that integrates with multiple social media platforms (e.g., Twitter, Facebook, Instagram) using their APIs. It allows users to manage their social media accounts, view feeds, post updates, and customize account settings from a centralized platform.
 
-Overview
-The Social Media Aggregator is a web application that integrates with multiple social media platforms (e.g., Twitter, Facebook, Instagram) using their APIs. It allows users to view and interact with their social media feeds, post updates, and manage their accounts from a centralized platform.
 
+Table of Contents
+Features
+Technologies Used
+Project Structure
+Installation
+Usage
+Contributing
+License
+Acknowledgements
 Features
 Social Media Integration: Connects with Twitter, Facebook, and Instagram APIs.
 Feed Viewing: Displays user's social media feeds in a centralized dashboard.
@@ -16,7 +23,7 @@ Database: MongoDB (or your preferred database)
 Authentication: JSON Web Tokens (JWT)
 API Integration: Axios for API requests
 Project Structure
-The project is structured with separate components for frontend and backend, following a client-server architecture.
+The project follows a client-server architecture with separate directories for frontend and backend:
 
 Frontend:
 
