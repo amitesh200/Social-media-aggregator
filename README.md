@@ -100,17 +100,10 @@ npm start
   <h2>Contributing</h2>
 
   <p>Contributions are welcome! Please fork the repository and create a pull request with your improvements.</p>
+  
+  <!-- Contact -->
+  ## Contact
 
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
-
-  <h2>Acknowledgements</h2>
-
-  <ul>
-    <li>This project was inspired by the need for a centralized platform to manage multiple social media accounts.</li>
-    <li>Special thanks to the contributors and open-source community for valuable feedback and support.</li>
-  </ul>
-
+Amitesh Singh - amiteshsingh200@gmail.com
 </body>
 </html>
