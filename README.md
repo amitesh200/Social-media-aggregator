@@ -15,7 +15,7 @@
   <h2>Features</h2>
 
   <ul>
-    <li><strong>Social Media Integration:</strong> Connects with Twitter, Facebook, and Instagram APIs.</li>
+    <li><strong>Social Media Integration:</strong> Connects with Twitter, Facebook.</li>
     <li><strong>Feed Viewing:</strong> Displays user's social media feeds in a centralized dashboard.</li>
     <li><strong>Post Updates:</strong> Allows users to create and publish posts across connected social media platforms.</li>
     <li><strong>Account Management:</strong> Provides functionalities to manage social media account settings.</li>
